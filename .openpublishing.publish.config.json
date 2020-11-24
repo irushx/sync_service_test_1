@@ -4,7 +4,7 @@
     {
       "docset_name": "sync_test",
       "build_source_folder": "sync_test",
-      "build_output_subfolder": ".",
+      "build_output_subfolder": "sync_test",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -12,7 +12,8 @@
       "type_mapping": {
         "Conceptual": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],

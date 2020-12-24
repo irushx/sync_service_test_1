@@ -100,6 +100,20 @@
       "template_folder": "_themes"
     },
     {
+      "docset_name": "docs-test-usnat-true",
+      "build_source_folder": "folder1/floder2",
+      "build_output_subfolder": "docs-test-usnat-true",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "faf",
       "build_source_folder": "folder1/floder2",
       "build_output_subfolder": "faf",
